@@ -1,5 +1,18 @@
 {
     "recommendations": [
-        "akamud.vscode-theme-onedark"
+        "akamud.vscode-theme-onedark",
+        "aaron-bond.better-comments",
+        "ms-azuretools.vscode-containers",
+        "ms-azuretools.vscode-docker",
+        "github.copilot",
+        "github.copilot-chat",
+        "github.vscode-pull-request-github",
+        "pkief.material-icon-theme",
+        "christian-kohler.path-intellisense",
+        "ms-python.python",
+        "charliermarsh.ruff",
+        "rust-lang.rust-analyzer",
+        "mtxr.sqltools",
+        "donjayamanne.githistory"
     ]
 }
