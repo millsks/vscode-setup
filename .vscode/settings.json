@@ -1,0 +1,13 @@
+{
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "workbench.colorTheme": "Default Dark Modern",
+    "material-icon-theme.folders.associations": {
+        "src": "folder-src",
+        "public": "folder-public",
+        "assets": "folder-assets",
+        "venv": "environment",
+        "references": "docs",
+        "modeling": "generator",
+    },
+    "workbench.iconTheme": "material-icon-theme"
+}

@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"material-icon-theme.folders.associations": {
+			"src": "src",
+			"test": "test",
+			"dist": "dist",
+			"venv": "Sublime"
+		}
+	}
+}
