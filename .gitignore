@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+ENV/
+.envrc
+*.sqlite3
+*.db
+*.log
+*.pot
+*.pyw
+*.mypy_cache/
+*.pytest_cache/
+.ipynb_checkpoints/
+
+# Rust
+target/
+Cargo.lock
+*.rs.bk
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# General
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Others
+*.coverage
+.coverage
+htmlcov/
+
+# Git
+.git/
